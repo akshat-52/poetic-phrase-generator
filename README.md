@@ -1,4 +1,6 @@
 # co6d6447980497dd5775ab78d
+# Poetic Phrase Generator
+Create AI-generated witty and satirical poetic phrases about your favorite activities and places to visit.
 
 Quick start:
 
